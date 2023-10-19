@@ -1,0 +1,3 @@
+Ankush,62874295967,ankush@gmail.com,Cake,3,2,600,Fri Oct 20 02:38:24 2023
+Batman,2132424215,dark@gotham.com,Candy,5,2,2,Fri Oct 20 02:55:03 2023
+Superman,9213844214,kryptonian@gmail.com,Cola,6,25,500,Fri Oct 20 03:00:45 2023
